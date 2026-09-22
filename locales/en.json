@@ -1,11 +1,11 @@
 {
-  "__SITE_NAMESPACE__.identity.organisation": "Museum With No Frontiers",
-  "__SITE_NAMESPACE__.identity.title": "__DATASET__",
-  "__SITE_NAMESPACE__.identity.copyright": "© Museum With No Frontiers",
-  "__SITE_NAMESPACE__.home.intro": "Welcome to __DATASET__.",
-  "__SITE_NAMESPACE__.home.catalogueText": "Browse every item by country and date.",
-  "__SITE_NAMESPACE__.home.itemOnDisplay": "Item on display",
-  "__SITE_NAMESPACE__.nav.catalogue": "Catalogue",
-  "__SITE_NAMESPACE__.nav.about": "About",
-  "__SITE_NAMESPACE__.about.body": "This website is published by Museum With No Frontiers. Replace this text with what __DATASET__ is and who made it."
+  "paintings.identity.organisation": "Museum With No Frontiers",
+  "paintings.identity.title": "paintings",
+  "paintings.identity.copyright": "© Museum With No Frontiers",
+  "paintings.home.intro": "Welcome to paintings.",
+  "paintings.home.catalogueText": "Browse every item by country and date.",
+  "paintings.home.itemOnDisplay": "Item on display",
+  "paintings.nav.catalogue": "Catalogue",
+  "paintings.nav.about": "About",
+  "paintings.about.body": "This website is published by Museum With No Frontiers. Replace this text with what paintings is and who made it."
 }
