@@ -16,7 +16,7 @@
     "namespace": "paintings"
   },
   "dependencies": {
-    "@museumwnf/paintings-data": "^1.0.4",
+    "@museumwnf/paintings-data": "^1.0.5",
     "@museumwnf/viewer-core": "^2.6.0",
     "@museumwnf/viewer-i18n": "^6.0.0",
     "@museumwnf/viewer-layout": "^3.3.0",
